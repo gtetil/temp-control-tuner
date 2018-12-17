@@ -11,7 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="NEO VI Example.vi" Type="VI" URL="../NEO VI Example.llb/NEO VI Example.vi"/>
-		<Item Name="temp-control-tuner.vi" Type="VI" URL="../temp-control-tuner.vi"/>
+		<Item Name="stack-temp-tuner.vi" Type="VI" URL="../stack-temp-tuner.vi"/>
+		<Item Name="syrup-temp-tuner.vi" Type="VI" URL="../syrup-temp-tuner.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
