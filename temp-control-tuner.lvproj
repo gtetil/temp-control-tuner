@@ -70,7 +70,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D59E08FC-8C74-4186-9370-76D18F9851FA}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">temp-control-tuner.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME.exe</Property>
@@ -90,7 +90,7 @@
 				<Property Name="Source[1].properties[1].type" Type="Str">Show vertical scroll bar</Property>
 				<Property Name="Source[1].properties[1].value" Type="Bool">false</Property>
 				<Property Name="Source[1].properties[2].type" Type="Str">Show horizontal scroll bar</Property>
-				<Property Name="Source[1].properties[2].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[2].value" Type="Bool">true</Property>
 				<Property Name="Source[1].properties[3].type" Type="Str">Show toolbar</Property>
 				<Property Name="Source[1].properties[3].value" Type="Bool">false</Property>
 				<Property Name="Source[1].properties[4].type" Type="Str">Allow user to close window</Property>
