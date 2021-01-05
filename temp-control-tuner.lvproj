@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="CAN Message to Floats.vi" Type="VI" URL="../CAN Message to Floats.vi"/>
 		<Item Name="NEO VI Example.vi" Type="VI" URL="../NEO VI Example.llb/NEO VI Example.vi"/>
 		<Item Name="stack-temp-tuner.vi" Type="VI" URL="../stack-temp-tuner.vi"/>
 		<Item Name="syrup-temp-tuner.vi" Type="VI" URL="../syrup-temp-tuner.vi"/>
@@ -22,6 +21,7 @@
 			</Item>
 			<Item Name="build status string.vi" Type="VI" URL="../NEO VI Example.llb/build status string.vi"/>
 			<Item Name="CAN Floats to Message.vi" Type="VI" URL="../CAN Floats to Message.vi"/>
+			<Item Name="CAN Message to Floats.vi" Type="VI" URL="../CAN Message to Floats.vi"/>
 			<Item Name="closeneodevices.vi" Type="VI" URL="../NEO VI Example.llb/closeneodevices.vi"/>
 			<Item Name="const_cluster_firesetting.vi" Type="VI" URL="../NEO VI Example.llb/const_cluster_firesetting.vi"/>
 			<Item Name="const_cluster_spymessage.vi" Type="VI" URL="../NEO VI Example.llb/const_cluster_spymessage.vi"/>
